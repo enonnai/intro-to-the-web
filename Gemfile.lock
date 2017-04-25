@@ -37,6 +37,7 @@ PLATFORMS
 
 DEPENDENCIES
   capybara
+  rack
   shotgun
   sinatra
 
